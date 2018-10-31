@@ -1,7 +1,3 @@
-# Introdution
-
-[Kaggle](https://www.kaggle.com)為一個培育資料科學家全世界性競賽平台，企業以及研究者可在其上發布數據，統據學者及數據挖掘專家可在其上進行競賽已產生最好的模型，其中[Titanic](https://www.kaggle.com/c/titanic)為該平台上的一個入門競賽，為一個小資料集的二元分類比賽，本專案使用RandomForest作為測試模型，並以Recursive Forward Elimination(RFE)前向選擇法執行特徵選擇，使用5個特徵(性別，艙等，票價，連結，年齡)將預測排名從全世界11487個隊伍中的達到第301名(Top 3%)，分成兩個版本，英文版內含一個ipynb文件，中文版內含一篇Medium文章以及一個ipynb文件:
-
 ## English 
 
 [Recursive Forward Elimination Workflow to 0.82296](https://github.com/YLTsai0609/Kaggle-Titanic-Top3-percent/blob/master/Recursive%20Forward%20Elimination%20Workflow%20to%200.82296.ipynb)
