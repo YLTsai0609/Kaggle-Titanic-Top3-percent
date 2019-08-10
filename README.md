@@ -1,5 +1,5 @@
 # Kaggle-Titanic-Survival-prediction
-[Kaggle-Titanic-Survival-prediction](https://www.kaggle.com/c/titanic)
+[Kaggle-Titanic-Survival-prediction](https://www.kaggle.com/c/titanic)<br>
 E-mail : [yltsai0609@gmail.com](yltsai0609@gmail.com) <br>
 **********************************************
 結論 : Titanic為機器學習的入門款項目，Kaggle上有許多解法及思路，
